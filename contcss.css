@@ -1,0 +1,12 @@
+:root{
+    --bg-color: #31395d;
+    --snd-bf-color: #293150;
+    --text-color: #fff;
+    --main-color: #59B2FA;
+}
+body{
+    background: var(--bg-color);
+}
+.contact h2{
+    color: var(--main-color);
+}
